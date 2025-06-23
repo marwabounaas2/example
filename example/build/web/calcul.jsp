@@ -13,5 +13,10 @@
     </head>
     <body>
       <h1>la moyenne de l'etudiant est: ${M}</h1>
+      <h2>bounjourr</h2>
     </body>
 </html>
+
+
+
+
